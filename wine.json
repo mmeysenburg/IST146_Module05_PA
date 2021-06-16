@@ -90,11 +90,10 @@ School of Information and Computer Science.
   (All results using the leave-one-out technique) 
 
   (2) S. Aeberhard, D. Coomans and O. de Vel, 
-  "THE CLASSIFICATION PERFORMANCE OF RDA" 
+  THE CLASSIFICATION PERFORMANCE OF RDA
   Tech. Rep. no. 92-01, (1992), Dept. of Computer Science and Dept. of 
   Mathematics and Statistics, James Cook University of North Queensland. 
-  (Also submitted to Journal of Chemometrics).
-",
+  (Also submitted to Journal of Chemometrics).",
 "feature_names":["alcohol","malic_acid","ash","alcalinity_of_ash","magnesium","total_phenols","flavanoids","nonflavanoid_phenols","proanthocyanins","color_intensity","hue","od280/od315_of_diluted_wines","proline"],
 "target_names":["class_0","class_1","class_2"],
 "data":[[14.230000,1.710000,2.430000,15.600000,127.000000,2.800000,3.060000,0.280000,2.290000,5.640000,1.040000,3.920000,1065.000000,],
